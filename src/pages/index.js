@@ -20,6 +20,12 @@ const IndexPage = () => (
       margin: `1em 0 1em 0`
   }}
     ></div>
+    <h2 class="italicTxt"
+      style={{
+        color: `red`
+      }}
+    
+    >I dream in fire and javascript</h2>
     <p>I started learning to code because I wanted to challenge myself, and learn more skills which can be used to help others. 
       <br/>
         Technology is powerful. Let's harness it and use it for good.
