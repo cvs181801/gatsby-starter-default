@@ -42,7 +42,6 @@ summary {
 .header {
   position: -webkit-sticky;
   position: sticky;
- 
 }
 
 .headerContain {
@@ -65,8 +64,7 @@ summary {
 
 .h1Container {
   max-width: 20em;
-  margin-top: 1em;
-  
+  margin-top: 1em; 
 }
 
 .navLi {
@@ -98,6 +96,10 @@ summary {
   background-color: red;
   color: ghostwhite;
   padding: .2em;
+}
+
+.italicTxt {
+  font-style: italic;
 }
 
 audio,
