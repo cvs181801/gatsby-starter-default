@@ -38,6 +38,40 @@ section,
 summary {
   display: block;
 }
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  border: 2px solid yellow;
+}
+
+.navContainer {
+  border: 2px solid violet;
+  color: ghostwhite;
+  text-transform: uppercase;
+}
+
+.navUl {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+.h1Container {
+  border: 2px solid pink;
+}
+
+.navLiAnchor {
+  text-decoration: none;
+  
+}
+
+.navLiAnchor:hover,
+.navLiAnchor:link,
+.navLiAnchor:visited {
+  color: ghostwhite;
+}
+
 audio,
 canvas,
 progress,
