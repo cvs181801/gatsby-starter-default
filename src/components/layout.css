@@ -47,8 +47,6 @@ summary {
 
 .headerContain {
   display: flex;
-  border: 2px solid pink;
- 
 }
 
 .navContainer {
@@ -57,7 +55,6 @@ summary {
   text-transform: uppercase;
   margin: 0 auto;
   padding-top: 5em;
-  border: 2px solid black;
 }
 
 .navUl {
@@ -68,7 +65,8 @@ summary {
 
 .h1Container {
   max-width: 20em;
-  border: 2px solid pink;
+  margin-top: 1em;
+  
 }
 
 .navLi {
