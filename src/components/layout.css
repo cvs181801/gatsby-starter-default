@@ -39,10 +39,13 @@ summary {
   display: block;
 }
 
-.headerContain {
-  display: flex;
+.header {
   position: -webkit-sticky;
   position: sticky;
+}
+
+.headerContain {
+  display: flex;
 }
 
 .navContainer {
@@ -74,6 +77,11 @@ summary {
 .navLiAnchor:hover,
 .navLiAnchor:link,
 .navLiAnchor:visited {
+  color: ghostwhite;
+}
+
+.sectionH1 {
+  background-color: red;
   color: ghostwhite;
 }
 

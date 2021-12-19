@@ -10,6 +10,10 @@ import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import AboutMe from "./AboutMe"
+import Skills from "./Skills"
+import Projects from "./Projects"
+import Contact from "./Contact"
 import "./layout.css"
 
 const Layout = ({ children }) => {
@@ -34,6 +38,15 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
+        <div
+          className="sectionContainer"
+        >
+          <AboutMe/>
+          <Skills/>
+          <Projects/>
+          <Contact/>
+        </div>
+
         <footer
           style={{
             marginTop: `2rem`,

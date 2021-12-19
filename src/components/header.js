@@ -35,11 +35,11 @@ const Header = ({ siteTitle }) => (
       <div class="navContainer">
         <nav>
           <ul class="navUl">
-            <li class="navLi"><a class="navLiAnchor" href="#">home</a></li>
-            <li class="navLi"><a class="navLiAnchor" href="#">about me</a></li>
-            <li class="navLi"><a class="navLiAnchor" href="#">skills</a></li>
-            <li class="navLi"><a class="navLiAnchor" href="#">projects</a></li>
-            <li class="navLi"><a class="navLiAnchor" href="#">contact</a></li>
+            <li class="navLi"><a class="navLiAnchor" href=".headerContain">home</a></li>
+            <li class="navLi"><a class="navLiAnchor" href=".aboutmeSection">about me</a></li>
+            <li class="navLi"><a class="navLiAnchor" href=".skillsSection">skills</a></li>
+            <li class="navLi"><a class="navLiAnchor" href=".projectsSection">projects</a></li>
+            <li class="navLi"><a class="navLiAnchor" href=".contactSection">contact</a></li>
           </ul>
         </nav>
       </div>
