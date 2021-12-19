@@ -10,8 +10,13 @@ export default function Skills() {
                 className= "sectionH1"
             >My Skills</h1>
             <p> 
+                <ul>
+                    <li>Javascript</li>
+                    <li>React.js</li>
+                    <li>Problem Solving</li>
+                </ul>
             
-                Es id interdum velit.</p>
+                </p>
         </section>
         </div>
     )
