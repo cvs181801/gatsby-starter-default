@@ -1,6 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
+//import { StaticImage } from "../images/pic.jpg"
 
 import Layout from "../components/layout"
 import Seo from "../components/seo"
@@ -11,14 +11,14 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
-    <StaticImage
-      src="../images/gatsby-astronaut.png"
+    {/* <StaticImage
+      src={StaticImage}
       width={300}
       quality={95}
       formats={["auto", "webp", "avif"]}
-      alt="A Gatsby astronaut"
+      alt="Cas Spicer, Software Developer"
       style={{ marginBottom: `1.45rem` }}
-    />
+    /> */}
     <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
