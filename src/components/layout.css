@@ -42,18 +42,22 @@ summary {
 .header {
   position: -webkit-sticky;
   position: sticky;
+ 
 }
 
 .headerContain {
   display: flex;
+  border: 2px solid pink;
+ 
 }
 
 .navContainer {
-  justify-content: space-evenly;
+  justify-content: space-between;
   color: ghostwhite;
   text-transform: uppercase;
   margin: 0 auto;
   padding-top: 5em;
+  border: 2px solid black;
 }
 
 .navUl {
@@ -64,10 +68,11 @@ summary {
 
 .h1Container {
   max-width: 20em;
+  border: 2px solid pink;
 }
 
 .navLi {
-  padding: .7em;
+  padding-left: .7em;
 }
 
 .navLiAnchor {
@@ -80,9 +85,21 @@ summary {
   color: ghostwhite;
 }
 
+/* .sectionContainer {
+  scroll-snap-type: y mandatory;
+  overflow-y: scroll;
+  height: 100vh;
+} */
+
+/* section {
+  scroll-snap-align: start;
+  height: 100vh;
+} */
+
 .sectionH1 {
   background-color: red;
   color: ghostwhite;
+  padding: .2em;
 }
 
 audio,

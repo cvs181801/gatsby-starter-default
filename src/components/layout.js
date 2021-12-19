@@ -38,6 +38,7 @@ const Layout = ({ children }) => {
         }}
       >
         <main>{children}</main>
+        
         <div
           className="sectionContainer"
         >
@@ -46,6 +47,8 @@ const Layout = ({ children }) => {
           <Projects/>
           <Contact/>
         </div>
+
+        
 
         <footer
           style={{
