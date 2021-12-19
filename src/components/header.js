@@ -4,18 +4,19 @@ import { Link } from "gatsby"
 
 const Header = ({ siteTitle }) => (
   <header
+    
     style={{
       background: `red`,
       marginBottom: `1.45rem`,
-      height: `7em`
+      height: `10em`
     }}
   >
     <div
+      className="headerContain"
       style={{
         margin: `0 auto`,
         maxWidth: 960,
-        padding: `1.45rem 1.0875rem`,
-        
+        padding: `1.45rem 1.0875rem`
       }}
     >
   <div class="h1Container">  
@@ -34,11 +35,11 @@ const Header = ({ siteTitle }) => (
       <div class="navContainer">
         <nav>
           <ul class="navUl">
-            <li><a class="navLiAnchor" href="#">home</a></li>
-            <li><a class="navLiAnchor" href="#">about me</a></li>
-            <li><a class="navLiAnchor" href="#">skills</a></li>
-            <li><a class="navLiAnchor" href="#">projects</a></li>
-            <li><a class="navLiAnchor" href="#">contact</a></li>
+            <li class="navLi"><a class="navLiAnchor" href="#">home</a></li>
+            <li class="navLi"><a class="navLiAnchor" href="#">about me</a></li>
+            <li class="navLi"><a class="navLiAnchor" href="#">skills</a></li>
+            <li class="navLi"><a class="navLiAnchor" href="#">projects</a></li>
+            <li class="navLi"><a class="navLiAnchor" href="#">contact</a></li>
           </ul>
         </nav>
       </div>

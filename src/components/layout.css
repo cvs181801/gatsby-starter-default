@@ -39,16 +39,18 @@ summary {
   display: block;
 }
 
-header {
+.headerContain {
   display: flex;
-  flex-wrap: wrap;
-  border: 2px solid yellow;
+  position: -webkit-sticky;
+  position: sticky;
 }
 
 .navContainer {
-  border: 2px solid violet;
+  justify-content: space-evenly;
   color: ghostwhite;
   text-transform: uppercase;
+  margin: 0 auto;
+  padding-top: 5em;
 }
 
 .navUl {
@@ -58,12 +60,15 @@ header {
 }
 
 .h1Container {
-  border: 2px solid pink;
+  max-width: 20em;
+}
+
+.navLi {
+  padding: .7em;
 }
 
 .navLiAnchor {
   text-decoration: none;
-  
 }
 
 .navLiAnchor:hover,
