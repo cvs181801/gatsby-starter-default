@@ -39,16 +39,15 @@ summary {
   display: block;
 }
 
-.header {
-  position: -webkit-sticky;
-  position: sticky;
-}
-
-#headerContain {
-  display: flex;
+header {
   position: -webkit-sticky;
   position: sticky;
   top: 0px;
+  width: 100%;
+}
+
+.headerContain {
+  display: flex;
 }
 
 .navContainer {
