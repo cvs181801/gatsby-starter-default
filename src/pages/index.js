@@ -31,7 +31,7 @@ const IndexPage = () => (
         
       <br/>
         I'm here to create amazing products while helping to make the internet a safer place for children. Today, we live, work and play
-         virtually, and we have an abundance of resources at the click of a button. Technology is powerful. Let's harness it and use it for good. 💪🏼
+         virtually, and we have an abundance of resources at the click of a button. Technology is powerful; so is community. Let's harness it and use it for good. 💪🏼
     </p>
 
     <p class="italicTxt">“For me, I am driven by two main philosophies: Know more today about the world than I knew yesterday, and lessen the suffering of others. You'd be surprised how far that gets you.” 
