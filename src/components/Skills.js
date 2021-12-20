@@ -8,7 +8,7 @@ export default function Skills() {
             >
             <h1
                 className= "sectionH1"
-            >My Skills</h1>
+            >My Skills.</h1>
             <p> 
                 <ul>
                     <li>Javascript</li>

@@ -28,10 +28,10 @@ const IndexPage = () => (
     >I dream in fire and javascript</h2>
     <p>I started learning to code because I wanted to challenge myself, and learn more skills which can be used to help others. 
       <br/>
-        Technology is powerful. Let's harness it and use it for good.
+        
       <br/>
         I'm here to create amazing products while helping to make the internet a safer place for children. Today, we live, work and play
-         virtually, and we have an abundance of resources at the click of a button.  Let's do this! 💪🏼
+         virtually, and we have an abundance of resources at the click of a button. Technology is powerful. Let's harness it and use it for good. 💪🏼
     </p>
 
     <p class="italicTxt">“For me, I am driven by two main philosophies: Know more today about the world than I knew yesterday, and lessen the suffering of others. You'd be surprised how far that gets you.” 
