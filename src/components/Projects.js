@@ -4,7 +4,7 @@ export default function Projects() {
     return (
         <div>
             <section
-                className= "projectsSection"
+                id= "projectsSection"
             >
             <h1
                 className= "sectionH1"

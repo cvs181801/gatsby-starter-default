@@ -4,7 +4,7 @@ export default function AboutMe() {
     return (
         <div>
             <section
-                className= "aboutmeSection"
+                id= "aboutmeSection"
             >
                 <h1
                     className= "sectionH1"

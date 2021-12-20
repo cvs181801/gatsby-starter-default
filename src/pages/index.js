@@ -1,8 +1,6 @@
 import * as React from "react"
 import { Link } from "gatsby"
 import StaticImage from "../images/pic.jpg"
-import Astronaut from "../images/gatsby-astronaut.png"
-
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 

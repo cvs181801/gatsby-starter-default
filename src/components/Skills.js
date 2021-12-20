@@ -4,7 +4,7 @@ export default function Skills() {
     return (
         <div>
             <section
-                className= "skillsSection"
+                id= "skillsSection"
             >
             <h1
                 className= "sectionH1"
