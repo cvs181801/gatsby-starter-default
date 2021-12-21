@@ -10,6 +10,7 @@ export default function Contact() {
                     className= "sectionH1"
                 >Contact Me.</h1>
                 <p> cvs181801@gmail.com</p>
+                <p><a href="https://www.linkedin.com/in/cas-spicer/">Linked In</a></p>
                 
             </section>
         </div>
