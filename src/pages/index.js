@@ -28,8 +28,12 @@ const IndexPage = () => (
       <br/>
         
       <br/>
-        I'm here to create amazing products while helping to make the internet a safer place for children. Today, we live, work and play
-         virtually, and we have an abundance of resources at the click of a button. Technology is powerful; so is community. Let's harness it and use it for good. 💪🏼
+        I'm here to create amazing products while helping to make the internet a safer place for children.
+        Technology is powerful; so is community. Let's harness it and use it for good. 💪🏼
+      <br/>
+        Other interests and passions: Cuddling cats, laughter as medicine, science fiction, music, art, and practicing Qi Gong
+        <br/>
+        Inspirations: Pop art, the Memphis design movement, vaporwave, science, mathematics and the natural world 
     </p>
 
     <p class="italicTxt">“For me, I am driven by two main philosophies: Know more today about the world than I knew yesterday, and lessen the suffering of others. You'd be surprised how far that gets you.” 
