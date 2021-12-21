@@ -1,6 +1,6 @@
 
 {
-  "root": "public/",
+  "root": "pages/",
    "headers": {
      "/header.js": {
        "Cache-Control": "public, max-age=0, must-revalidate"
