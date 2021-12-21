@@ -18,9 +18,9 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`
       }}
     >
-     {/* <section
+     <section
       id="headerSection"
-     > */}
+     > 
           <div class="h1Container">  
                 <h1 style={{ margin: 0 }}>
                   <Link
@@ -37,7 +37,6 @@ const Header = ({ siteTitle }) => (
           <div class="navContainer">
             <nav>
               <ul class="navUl">
-                <li class="navLi"><a class="navLiAnchor" href="#headerSection">home</a></li>
                 <li class="navLi"><a class="navLiAnchor" href="#aboutmeSection">about me</a></li>
                 <li class="navLi"><a class="navLiAnchor" href="#skillsSection">skills</a></li>
                 <li class="navLi"><a class="navLiAnchor" href="#projectsSection">projects</a></li>
@@ -45,7 +44,7 @@ const Header = ({ siteTitle }) => (
               </ul>
             </nav>
           </div>
-        {/* </section> */}
+       </section> 
     </div>
   </header>
 )

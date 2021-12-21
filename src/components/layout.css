@@ -46,8 +46,10 @@ header {
   width: 100%;
 }
 
-.headerContain {
+#headerSection {
   display: flex;
+  margin: 0 auto;
+  max-width: 960px;
 }
 
 .navContainer {
@@ -99,6 +101,14 @@ header {
   color: ghostwhite;
   padding: .2em;
 }
+
+#contactSection,
+#aboutmeSection,
+#skillsSection,
+#projectsSection {
+  padding-top: 11em;
+}
+
 
 .italicTxt {
   font-style: italic;
