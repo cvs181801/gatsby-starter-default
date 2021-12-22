@@ -2,13 +2,13 @@
 {
   "root": "pages/",
    "headers": {
-     "/header.js": {
+     "components/header.js": {
        "Cache-Control": "public, max-age=0, must-revalidate"
      },
-    "/layout.css": {
+    "components/layout.css": {
       "Cache-Control": "public, max-age=31536000, immutable"
     },
-    "/index.js": {
+    "pages/index.js": {
       "Cache-Control": "public, max-age=31536000, immutable"
     },
     "/static.json": {
