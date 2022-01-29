@@ -13,6 +13,10 @@ export default function Skills() {
                 <ul>
                     <li>Javascript</li>
                     <li>React.js</li>
+                    <li>Heroku</li>
+                    <li>Netlify</li>
+                    <li>Axios</li>
+                    <li>Express.js</li>
                     <li>Problem Solving</li>
                 </ul>
             

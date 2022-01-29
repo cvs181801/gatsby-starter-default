@@ -8,17 +8,26 @@ export default function AboutMe() {
             >
                 <h1
                     className= "sectionH1"
-                >About Me.</h1>
+                >
+                    About Me.
+                </h1>
                     <p> Self-Taught Software Developer with a background in Customer Success, Psychology and Social Work. 
                         I get excited about solving complex problems and building secure sustainable applications.
                         I'm passionate about expanding positive change in the world.
                         I also have experience with public speaking, teaching, and working abroad, which have given
                         me a great deal of experience working with diverse populations. </p>
 
-                        <p><a href="https://www.linkedin.com/in/cas-spicer/">Linked In</a></p>
-                        <p><a href="https://github.com/cvs181801">Github</a></p>
-                        <p><a>Resume</a></p>
-                        
+                <div
+                    style={{
+                        display: `flex`,
+                        width: `15em`,
+                        justifyContent: `space-between`
+                    }}
+                >
+                    <strong><p><a href="https://www.linkedin.com/in/cas-spicer/">Linked In</a></p></strong>
+                    <strong><p><a href="https://github.com/cvs181801">Github</a></p></strong>
+                    <strong><p><a href="#">Resume</a></p></strong>
+                </div>           
         </section>
     </div>
     )
