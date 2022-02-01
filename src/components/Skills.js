@@ -14,6 +14,7 @@ export default function Skills() {
                     <li>Javascript</li>
                     <li>Node.js</li>
                     <li>React.js</li>
+                    <li>RESTful API's</li>
                     <li>Axios</li>
                     <li>Express.js</li>
                     <li>Heroku</li>
