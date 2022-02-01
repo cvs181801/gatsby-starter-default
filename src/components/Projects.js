@@ -38,7 +38,10 @@ export default function Projects() {
                     I decided to showcase 5 inspirational celebrities who are frequently using their Twitter platform to send positive messages to their fans.
                     <br/>
                     <strong><a href="https://calm-citadel-32694.herokuapp.com/">Check out the app here.</a></strong>
+                    <strong><a href="https://github.com/cvs181801/15-minutes">View the code on Github here.</a></strong>
                 </p>
+                    <br/>
+                <p>Check back for more projects soon!</p>
         </section>
         </div>
     )

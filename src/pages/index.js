@@ -37,7 +37,7 @@ const IndexPage = () => (
     </p>
 
     <p class="italicTxt">“For me, I am driven by two main philosophies: Know more today about the world than I knew yesterday, and lessen the suffering of others. You'd be surprised how far that gets you.” 
-      <br/>― Neil deGrasse Tyson
+      <br/>― Dr. Neil DeGrasse Tyson
       <br/>
       <br/>
     “Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
