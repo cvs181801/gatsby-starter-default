@@ -16,8 +16,8 @@ export default function Projects() {
                 style={{
                     backgroundImage: `url(${Pic15Minutes})`,
                     backgroundSize: `cover`,
-                    height: `22em`,
-                    width: `30em`,
+                    height: `25em`,
+                    width: `35em`,
                     margin: `1em 0 1em 0`
                 }}
             ></div>
