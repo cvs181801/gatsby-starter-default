@@ -31,18 +31,33 @@ const IndexPage = () => (
         I'm here to create amazing products while helping to make the internet a safer place for children.
         Technology is powerful; so is community. Let's harness it and use it for good. 💪🏼
       <br/>
-        Non-technical interests and passions: Cuddling cats, laughter as medicine, science fiction, music, art, and practicing Qi Gong
+        Other interests and passions: Cuddling cats, laughter as medicine, 
+        science fiction, music, art, and practicing Qi Gong
         <br/>
-        Inspirations: Pop art, the Memphis design movement, vaporwave, music, science, mathematics and the natural world 
+        Inspirations: Pop art, the Memphis design movement, vaporwave, science, mathematics and the natural world 
     </p>
 
     <p class="italicTxt">“For me, I am driven by two main philosophies: Know more today about the world than I knew yesterday, and lessen the suffering of others. You'd be surprised how far that gets you.” 
-      <br/>― Dr. Neil DeGrasse Tyson
+      <br/>― Neil deGrasse Tyson
       <br/>
       <br/>
     “Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.”
       <br/> ― Margaret Mead</p>
+     {/* <StaticImage
+      src={StaticImage}
+      width={300}
+      quality={95}
+      formats={["auto", "webp", "avif"]}
+      alt="Cas Spicer, Software Developer"
+      style={{ marginBottom: `1.45rem` }}
+    />   */}
     
+    {/* <p>
+      <Link to="/page-2/">Go to page 2</Link> <br />
+      <Link to="/using-typescript/">Go to "Using TypeScript"</Link> <br />
+      <Link to="/using-ssr">Go to "Using SSR"</Link> <br />
+      <Link to="/using-dsg">Go to "Using DSG"</Link>
+    </p> */}
   </Layout>
 )
 

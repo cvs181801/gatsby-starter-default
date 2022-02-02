@@ -20,7 +20,7 @@ export default function AboutMe() {
                 <div
                     style={{
                         display: `flex`,
-                        width: `15em`,
+                        width: `25em`,
                         justifyContent: `space-between`
                     }}
                 >
