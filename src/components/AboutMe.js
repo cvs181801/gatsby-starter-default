@@ -26,7 +26,7 @@ export default function AboutMe() {
                 >
                     <strong><p><a href="https://www.linkedin.com/in/cas-spicer/">Linked In</a></p></strong>
                     <strong><p><a href="https://github.com/cvs181801">Github</a></p></strong>
-                    <strong><p><a href="#">Resume: Coming soon!</a></p></strong>
+                    <strong><p><a href="src/PDFFiles/Resume 101.pdf">Resume</a></p></strong>
                 </div>           
         </section>
     </div>

@@ -12,14 +12,16 @@ export default function Skills() {
             <p> 
                 <ul>
                     <li>Javascript</li>
-                    <li>Node.js</li>
-                    <li>React.js</li>
+                    <li>PERN Stack (Postgres, Express.js, React.js, Node.js)</li>
                     <li>Axios</li>
-                    <li>Express.js</li>
+                    <li>REST, RESTful</li>
+                    <li>Problem Solving</li>
+                    <li>Command Line</li>
+                    <li>SocketIO</li>
+                    <li>React-Bootstrap</li>
+                    <li>Sass</li>
                     <li>Heroku</li>
                     <li>Netlify</li>
-                    <li>Command Line</li>
-                    <li>Problem Solving</li>
                 </ul>
             
                 </p>

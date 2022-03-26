@@ -1,6 +1,7 @@
 import React from 'react'
 import Pic15Minutes from "../images/15Minutes.png"
 import Calculator from "../images/calculator.png"
+import Day2Nite from "../images/day2nite1.png"
 
 export default function Projects() {
     return (
@@ -11,6 +12,43 @@ export default function Projects() {
             <h1
                 className= "sectionH1"
             >Projects.</h1>
+
+            <h2>Let's Chat, Day-2-Nite</h2>
+                    <div
+                    style={{
+                        backgroundImage: `url(${Day2Nite})`,
+                        backgroundSize: `cover`,
+                        height: `22em`,
+                        width: `50em`,
+                        margin: `1em 0 1em 0`
+                    }}
+                ></div>
+                        <p>
+                        Have fun chatting with others in this chat app, complete with a yummy night mode. 
+                        My goal with this project was to get some experience building a full stack application using the PERN stack. 
+                        Also, I wanted it to have an immensely relaxing UI. Kick your feet up, pour yourself a martini, and send some emojis to a friend or two. :)
+
+                        <br/>
+                        - Built with Node.js, React.js, Express.js and PostgreSQL
+                        <br/>
+                        - SocketIO for reduced chat lag time
+                        <br/>
+                        - JSON Web Tokens included in the authentication process for enhanced security
+
+                    <br/>
+                        <strong><a href="https://lets-chat-lets-hack.herokuapp.com/">Check out the app here.</a></strong>
+
+                        <br/>
+
+                        <strong><a href="https://github.com/cvs181801/chat-app">View the code on Github here.</a></strong>
+                    </p>
+
+                <br/>
+                <br/>
+                <br/>
+                <hr/>
+                <br/>
+
             <h2>15 Minutes</h2>
             <div
                 style={{
@@ -67,12 +105,6 @@ export default function Projects() {
                         I used regular expressions to capture the operands the user enters, as well as the numbers, which go into an array and get passed through the MDAS function loops. 
                         If the result is a very long decimal, it should round to the nearest 10 thousandth place (4 decimal places). 
 
-                        <br/>
-                        -Negative numbers. 
-                        Currently, the calculator is not programmed to support negative numbers. It would be nice to add this feature into the programming.
-                        -Parentheses and exponents.  It would be nice to add these features as well, and make this an official PEMDAS calculator!
-
-                    <br/>
                         <strong><a href="https://cvs181801.github.io/calculator-app/">Check out the app here.</a></strong>
 
                         <br/>
@@ -80,7 +112,6 @@ export default function Projects() {
                         <strong><a href="https://github.com/cvs181801/calculator-app">View the code on Github here.</a></strong>
                     </p>
 
-                    <br/>
                 <p>Check back for more projects soon!</p>
         </section>
         </div>
