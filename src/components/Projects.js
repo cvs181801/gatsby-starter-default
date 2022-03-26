@@ -33,7 +33,7 @@ export default function Projects() {
                         <br/>
                         - SocketIO for reduced chat lag time
                         <br/>
-                        - JSON Web Tokens included in the authentication process for enhanced security
+                        - JSON Web Tokens and Bcrypt password hashing included in the authentication process for enhanced security
 
                     <br/>
                         <strong><a href="https://lets-chat-lets-hack.herokuapp.com/">Check out the app here.</a></strong>
@@ -106,7 +106,7 @@ export default function Projects() {
                         If the result is a very long decimal, it should round to the nearest 10 thousandth place (4 decimal places). 
 
                         <br/>
-                        
+
                         <strong><a href="https://cvs181801.github.io/calculator-app/">Check out the app here.</a></strong>
 
                         <br/>

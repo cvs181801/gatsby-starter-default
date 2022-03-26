@@ -20,6 +20,7 @@ export default function Skills() {
                     <li>SocketIO</li>
                     <li>Node-Postgres</li>
                     <li>React-Bootstrap</li>
+                    <li>Bcrypt</li>
                     <li>Sass</li>
                     <li>Heroku</li>
                     <li>Netlify</li>
