@@ -1,4 +1,5 @@
 import React from 'react'
+import Resume from '../PDFFiles/Resume101.pdf'
 
 export default function AboutMe() {
     return (
@@ -26,7 +27,7 @@ export default function AboutMe() {
                 >
                     <strong><p><a href="https://www.linkedin.com/in/cas-spicer/">Linked In</a></p></strong>
                     <strong><p><a href="https://github.com/cvs181801">Github</a></p></strong>
-                    <strong><p><a href="./src/PDFFiles/Resume101.pdf">Resume</a></p></strong>
+                    <strong><p><a href={Resume}>Resume</a></p></strong>
                 </div>           
         </section>
     </div>
