@@ -18,6 +18,7 @@ export default function Skills() {
                     <li>Problem Solving</li>
                     <li>Command Line</li>
                     <li>SocketIO</li>
+                    <li>Node-Postgres</li>
                     <li>React-Bootstrap</li>
                     <li>Sass</li>
                     <li>Heroku</li>

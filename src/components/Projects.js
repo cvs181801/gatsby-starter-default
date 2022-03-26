@@ -38,7 +38,7 @@ export default function Projects() {
                     <br/>
                         <strong><a href="https://lets-chat-lets-hack.herokuapp.com/">Check out the app here.</a></strong>
 
-                        <br/>
+                    <br/>
 
                         <strong><a href="https://github.com/cvs181801/chat-app">View the code on Github here.</a></strong>
                     </p>
@@ -105,6 +105,8 @@ export default function Projects() {
                         I used regular expressions to capture the operands the user enters, as well as the numbers, which go into an array and get passed through the MDAS function loops. 
                         If the result is a very long decimal, it should round to the nearest 10 thousandth place (4 decimal places). 
 
+                        <br/>
+                        
                         <strong><a href="https://cvs181801.github.io/calculator-app/">Check out the app here.</a></strong>
 
                         <br/>
