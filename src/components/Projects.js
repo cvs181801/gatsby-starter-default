@@ -41,16 +41,24 @@ export default function Projects() {
                     <br/>
 
                     This app uses parameterized queries on the back end to prevent SQL injection.  
+
+                    <br/>
                     
                     <strong>Check out this mini 'chat app' built for a simple example of how SQL injection works <a href="https://hacker-chat-101.herokuapp.com/">here!</a></strong>
                     
+                    <br/>
+                    
                     What is SQL injection, and why is it important to prevent?
 
-                    <strong>Read the blog post<a href="https://casspicerblog.netlify.app/blog/hackable-chat">here.</a></strong>
+                    <br/>
+
+                    <strong>Read the blog post <a href="https://casspicerblog.netlify.app/blog/hackable-chat">here.</a></strong>
 
                     <br/>
 
                         <strong><a href="https://github.com/cvs181801/chat-app">View the code on Github here.</a></strong>
+
+                    <br/>
                     </p>
 
                 <br/>
@@ -90,7 +98,7 @@ export default function Projects() {
 
                     <br/>
 
-                    <strong>Read the blog post<a href="https://casspicerblog.netlify.app/blog/15-minutes">here.</a></strong>
+                    <strong>Read the blog post <a href="https://casspicerblog.netlify.app/blog/15-minutes">here.</a></strong>
 
                     <br/>
 
