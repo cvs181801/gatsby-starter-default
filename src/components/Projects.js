@@ -14,16 +14,17 @@ export default function Projects() {
             >Projects.</h1>
 
             <h2>Let's Chat, Day-2-Nite</h2>
-                    <div
+
+                <img
+                    src={Day2Nite}
+                    alt="Chat App, Day-2-Nite"
                     style={{
-                        backgroundImage: `url(${Day2Nite})`,
-                        backgroundSize: `contain`,
-                        height: `25em`,
-                        width: `95vw`,
-                        margin: `1em 0 1em 0`,
-                        backgroundRepeat: `no-repeat`
+                        width: `100%`,
+                        height: `100%`,
+                        objectFit: `cover`,
+                        margin: `1em 0 1em 0`
                     }}
-                ></div>
+                ></img>
                         <p>
                         Have fun chatting with others in this chat app, complete with a yummy night mode. 
                         My goal with this project was to get some experience building a full stack application using the PERN stack. 
@@ -69,16 +70,18 @@ export default function Projects() {
                 <br/>
 
             <h2>15 Minutes</h2>
-            <div
-                style={{
-                    backgroundImage: `url(${Pic15Minutes})`,
-                    backgroundSize: `contain`,
-                    height: `25em`,
-                    width: `95vw`,
-                    margin: `1em 0 1em 0`,
-                    backgroundRepeat: `no-repeat`
-                }}
-            ></div>
+
+                <img
+                    src={Pic15Minutes}
+                    alt="Twitter API App, 15 Minutes"
+                    style={{
+                        width: `100%`,
+                        height: `100%`,
+                        objectFit: `cover`,
+                        margin: `1em 0 1em 0`
+                    }}
+                ></img>
+
                 <p>
                     15 Minutes is an app I built using the Twitter API.  It contains a unique take on the concept introduced by Andy Warhol; "15 Minutes of Fame".  
 
@@ -112,16 +115,17 @@ export default function Projects() {
                 <br/>
                 <br/>
                 <h2>Web Based Calculator</h2>
-                    <div
+
+                <img
+                    src={Calculator}
+                    alt="Web Based Calculator"
                     style={{
-                        backgroundImage: `url(${Calculator})`,
-                        backgroundSize: `contain`,
-                        height: `25em`,
-                        width: `95vw`,
-                        margin: `1em 0 1em 0`,
-                        backgroundRepeat: `no-repeat`
+                        width: `100%`,
+                        height: `100%`,
+                        objectFit: `cover`,
+                        margin: `1em 0 1em 0`
                     }}
-                ></div>
+                ></img>
                         <p>
                         I'm loving this web based calculator app I built, inspired by calculators of the 90's!
                         It was using vanilla Javascript, and designed according the the mathematical principle of PEMDAS, with one caveat

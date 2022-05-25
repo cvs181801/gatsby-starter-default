@@ -21,7 +21,7 @@ const Header = ({ siteTitle }) => (
      <section
       id="headerSection"
      > 
-          <div class="h1Container">  
+          <div className="h1Container">  
                 <h1 style={{ margin: 0 }}>
                   <Link
                     to="/"
@@ -34,13 +34,13 @@ const Header = ({ siteTitle }) => (
                   </Link>
                 </h1>
           </div>
-          <div class="navContainer">
+          <div className="navContainer">
             <nav>
-              <ul class="navUl">
-                <li class="navLi"><a class="navLiAnchor" href="#aboutmeSection">about me</a></li>
-                <li class="navLi"><a class="navLiAnchor" href="#skillsSection">skills</a></li>
-                <li class="navLi"><a class="navLiAnchor" href="#projectsSection">projects</a></li>
-                <li class="navLi"><a class="navLiAnchor" href="#contactSection">contact</a></li>
+              <ul className="navUl">
+                <li className="navLi"><a className="navLiAnchor" href="#aboutmeSection">about me</a></li>
+                <li className="navLi"><a className="navLiAnchor" href="#skillsSection">skills</a></li>
+                <li className="navLi"><a className="navLiAnchor" href="#projectsSection">projects</a></li>
+                <li className="navLi"><a className="navLiAnchor" href="#contactSection">contact</a></li>
               </ul>
             </nav>
           </div>
