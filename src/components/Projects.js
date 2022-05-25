@@ -17,10 +17,11 @@ export default function Projects() {
                     <div
                     style={{
                         backgroundImage: `url(${Day2Nite})`,
-                        backgroundSize: `cover`,
-                        height: `22em`,
-                        width: `50em`,
-                        margin: `1em 0 1em 0`
+                        backgroundSize: `contain`,
+                        height: `25em`,
+                        width: `95vw`,
+                        margin: `1em 0 1em 0`,
+                        backgroundRepeat: `no-repeat`
                     }}
                 ></div>
                         <p>
@@ -71,10 +72,11 @@ export default function Projects() {
             <div
                 style={{
                     backgroundImage: `url(${Pic15Minutes})`,
-                    backgroundSize: `cover`,
+                    backgroundSize: `contain`,
                     height: `25em`,
-                    width: `35em`,
-                    margin: `1em 0 1em 0`
+                    width: `95vw`,
+                    margin: `1em 0 1em 0`,
+                    backgroundRepeat: `no-repeat`
                 }}
             ></div>
                 <p>
@@ -113,10 +115,11 @@ export default function Projects() {
                     <div
                     style={{
                         backgroundImage: `url(${Calculator})`,
-                        backgroundSize: `cover`,
+                        backgroundSize: `contain`,
                         height: `25em`,
-                        width: `30em`,
-                        margin: `1em 0 1em 0`
+                        width: `95vw`,
+                        margin: `1em 0 1em 0`,
+                        backgroundRepeat: `no-repeat`
                     }}
                 ></div>
                         <p>
